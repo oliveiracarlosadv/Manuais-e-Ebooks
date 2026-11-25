@@ -23,3 +23,9 @@ Os materiais são escritos em linguagem acessível, com foco prático, para ajud
 <div align="center">
   <sub>Belém do Pará — 2025</sub>
 </div>
+
+## Licença
+
+Conteúdo licenciado sob a [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](LICENSE) — © 2026 Carlos Alexandre Albuquerque Oliveira. Você pode compartilhar e adaptar, inclusive para fins comerciais, desde que dê o crédito: **Carlos Alexandre Albuquerque Oliveira** (com link para este repositório e para a licença) e indique se houve alterações.
+
+O nome, a marca e o logotipo do projeto **não** estão incluídos na licença e não podem ser usados para sugerir endosso ou vínculo sem autorização.
